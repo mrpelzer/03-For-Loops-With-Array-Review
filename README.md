@@ -68,11 +68,8 @@ Your webpage must:
 
 ## ✔ Completion Checklist
 
-- [ ] Array has **7+ values**
 - [ ] At least **6 functions created**
 - [ ] Forward for-loop works correctly
 - [ ] Reverse for-loop works correctly
 - [ ] push, pop, shift, and unshift used properly
-- [ ] No advanced array features used
-- [ ] No event listeners used
 - [ ] Output displays correctly
