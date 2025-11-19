@@ -1,9 +1,4 @@
-/*
- * 
- * CREATE AN ARRAY WITH 7 VALUES
- * 
- */
-var arrayItems;
+var arrayItems = ["Apple", "Banana", "Cherry", "Dragonfruit", "Pear", "Watermelon", "Grapes"];
 
 
 /*
