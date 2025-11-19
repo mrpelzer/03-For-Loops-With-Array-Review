@@ -10,7 +10,7 @@
         "*": false
     },
     "github.copilot.inlineSuggest.enable": false,
-    "workbench.startupEditor": "readme",
+    "workbench.startupEditor": "README.md",
     "editor.wordWrap": "on",
     "files.autoSave": "afterDelay",
     "workbench.commandPalette.showAskInChat": false
