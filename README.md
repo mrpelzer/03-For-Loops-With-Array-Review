@@ -6,6 +6,10 @@ The purpose of this lab is to review and strengthen foundational JavaScript skil
 
 ---
 
+[Demo](https://output.jsbin.com/dirariw): [https://output.jsbin.com/dirariw](https://output.jsbin.com/dirariw)
+
+---
+
 ## 🎯 Learning Objectives
 
 - Use **for-loop** or **for-each** to iterate through arrays and display values.
